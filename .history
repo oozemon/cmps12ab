@@ -1,0 +1,180 @@
+#+1511331781
+hzip.st -d
+#+1511332913
+mkdir test
+#+1511332919
+cd test
+#+1511333021
+vi test.in
+#+1511333047
+chmod +x *.st
+#+1511333053
+hzip.st
+#+1511333059
+hzip.st test.in
+#+1511333067
+hzip.st -d test.in
+#+1511333089
+cd..
+#+1511333125
+hzip2.st -d test.in
+#+1511333231
+rm hzip.st
+#+1511333237
+rm *.swp
+#+1511333241
+ls .
+#+1511333342
+vi hzip2.st
+#+1511333394
+hzip2.st -u test.in
+#+1511333397
+hzip2.st -t test.in
+#+1511333402
+hzip2.st -c test.in
+#+1511333405
+hzip2.st -c test.in test.out
+#+1511333428
+chmod +x hzip.st
+#+1511335189
+hzip.st -t test.inw
+#+1511335196
+hzip.st -t test.inwq
+#+1511335590
+vi tes.out
+#+1511337062
+hzip.st -u test.in
+#+1511337704
+hzip.st -c test.in
+#+1511337830
+checksource hzip.st
+#+1511337936
+hzip.st -u test.out
+#+1511337961
+vi test.out
+#+1511338029
+hzip.st -t test.in
+#+1511338416
+hzip.st -ctu test.in test.out
+#+1511338421
+hzip.st -ct test.in test.out
+#+1511338425
+hzip.st -c test.in test.out
+#+1511338430
+hzip.st -u test.in test.out
+#+1511338433
+submit cmps112-wm.f17 asg3 hzip.st
+#+1511338438
+wq
+#+1511338596
+cd asg3
+#+1511338600
+vi hazip.st
+#+1511338606
+vi hzip.st
+#+1511818911
+mkdir asg4
+#+1511852225
+; s
+#+1511888859
+vi euclid.p ;
+#+1511888874
+rm euclid.p
+#+1511888909
+GCD ( 12, 4, X
+#+1511888912
+GCD ( 12, 4, X )
+#+1511888932
+gcd ( 111, 259, Z ) .
+#+1511888941
+gcd 111, 259, Z .
+#+1511888944
+vi euclid.pl
+#+1511889025
+gproloh
+#+1511889160
+cd assignmets
+#+1511889222
+cd Examples
+#+1511889284
+cp *.pl ~/
+#+1511889405
+riddle.
+#+1511889415
+vi einstein.pl
+#+1511889660
+cp *.pl ~/cs112/asg4
+#+1511889671
+vi RCS
+#+1511890144
+gprolog einstein.pl
+#+1511890221
+cd ..
+#+1511890231
+cd ~/
+#+1511890246
+riddle
+#+1511896766
+helloworld
+#+1511896770
+helloworld.pl
+#+1511896784
+vi helloworld.pl
+#+1511897817
+vi mk.build
+#+1511897832
+vi mk.tests
+#+1511898372
+vi database.pl
+#+1511898427
+cd /courses/cmps112-wm/:/Assignments/asg4-prolog-flights/.score
+#+1511898456
+/afs/cats.ucsc.edu/courses/cmps112-w/mAssignments/asg4-prolog-flights/.score
+#+1511898465
+/afs/cats.ucsc.edu/courses/cmps112-wm/Assignments/asg4-prolog-flights/.score
+#+1511898475
+/afs/cats.ucsc.edu/courses/cmps112-wm
+#+1511898481
+cd /afs/cats.ucsc.edu/courses/cmps112-wm
+#+1511898490
+cd Assignments
+#+1511898500
+cd asg4-prolog-flights
+#+1511898505
+cd .scoer
+#+1511898509
+cd .score
+#+1511898535
+cp *.tests ~/cs112/asg4
+#+1511898546
+cd ~/cs112/asg4
+#+1511898641
+vi factorial.pl
+#+1511898652
+swipl
+#+1512110667
+cd cs112/asg4
+#+1521094051
+rm functions.pl
+#+1521094200
+vi README
+#+1521094452
+submit cmps112-wm.w18 asg4 functions.pl README
+#+1521094871
+gprolog
+#+1521094900
+prolog
+#+1521094918
+bash
+#+1521095900
+eixt
+#+1521186658
+cd cs112
+#+1521186664
+cd asg4
+#+1521186665
+ls
+#+1521186672
+vi functions.pl
+#+1525124070
+exit

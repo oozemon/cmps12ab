@@ -1,0 +1,7 @@
+ 
+# prog1 
+# this is a shell script 
+pwd 
+cp prog1 prog2 
+ls -l 
+more prog1 

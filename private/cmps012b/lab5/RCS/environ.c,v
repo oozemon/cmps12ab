@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.1
+date	2014.05.08.00.08.04;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@-
+@
+text
+@#include <stdlib.h>
+#include <assert.h>
+#include <stdio.h>
+
+extern char **environ;
+
+void main () {
+   for (int argi = 0; environ[argi] !=NULL; argi++) {
+      printf("%s\n", environ[argi]);
+   }
+   return EXIT_SUCCESS;
+} 
+
+@

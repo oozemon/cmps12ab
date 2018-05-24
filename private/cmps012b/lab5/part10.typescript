@@ -1,0 +1,48 @@
+Script started on Wed 07 May 2014 05:09:05 PM PDT
+You are currently using 0% (577.0 KiB) of your 488.3 MiB quota.
+]0;uzahid@unix2:lab5[uzahid@unix2 lab5]$ ./environ 
+USER=uzahid
+LOGNAME=uzahid
+HOME=/afs/cats.ucsc.edu/users/h/uzahid
+PATH=/opt/rh/devtoolset-2/root/usr/bin:/opt/rh/devtoolset-2/root/usr/bin:/opt/rh/devtoolset-2/root/usr/bin:/opt/rh/devtoolset-2/root/usr/bin:/opt/rh/devtoolset-2/root/usr/bin:/usr/lib64/qt-3.3/bin:/opt/rh/devtoolset-2/root/usr/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/texlive/2012/bin/x86_64-linux:/usr/local/python3/bin:/afs/cats.ucsc.edu/users/h/uzahid/bin:.:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin:/usr/local/python3/bin:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin:/usr/local/python3/bin:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin:/usr/local/python3/bin:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin:/usr/local/python3/bin:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin:/usr/local/python3/bin:/afs/cats.ucsc.edu/courses/cmps012b-wm/bin
+MAIL=/var/spool/mail/uzahid
+SHELL=/bin/csh
+SSH_CLIENT=169.233.247.96 51361 22
+SSH_CONNECTION=169.233.247.96 51361 128.114.104.230 22
+SSH_TTY=/dev/pts/17
+TERM=xterm
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SELINUX_USE_CURRENT_RANGE=
+KRB5CCNAME=FILE:/tmp/krb5cc_42189_1hS9ep
+HOSTTYPE=x86_64-linux
+VENDOR=unknown
+OSTYPE=linux
+MACHTYPE=x86_64
+SHLVL=6
+PWD=/afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5
+GROUP=users
+HOST=unix2.lt.ucsc.edu
+REMOTEHOST=eduroam-247-96.ucsc.edu
+HOSTNAME=unix2.lt.ucsc.edu
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.tbz=01;31:*.tbz2=01;31:*.bz=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:
+CVS_RSH=ssh
+IDL_DIR=/usr/local/envi/idl82
+ENVI_DIR=/usr/local/envi/envi50
+EXELIS_DIR=/usr/local/envi
+G_BROKEN_FILENAMES=1
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+LANG=en_US.UTF-8
+INFOPATH=/opt/rh/devtoolset-2/root/usr/share/info:/opt/rh/devtoolset-2/root/usr/share/info:/opt/rh/devtoolset-2/root/usr/share/info:/opt/rh/devtoolset-2/root/usr/share/info:/opt/rh/devtoolset-2/root/usr/share/info:/opt/rh/devtoolset-2/root/usr/share/info:/usr/local/texlive/2012/texmf/doc/info
+PCP_DIR=/opt/rh/devtoolset-2/root
+PERL5LIB=/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5/vendor_perl:/opt/rh/devtoolset-2/root/usr/lib/perl5:/opt/rh/devtoolset-2/root/usr/share/perl5/vendor_perl
+LD_LIBRARY_PATH=/opt/rh/devtoolset-2/root/usr/lib64:/opt/rh/devtoolset-2/root/usr/lib64:/opt/rh/devtoolset-2/root/usr/lib64:/opt/rh/devtoolset-2/root/usr/lib64:/opt/rh/devtoolset-2/root/usr/lib64:/opt/rh/devtoolset-2/root/usr/lib64
+PYTHONPATH=/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib64/python2.6/site-packages:/opt/rh/devtoolset-2/root/usr/lib/python2.6/site-packages
+LESSOPEN=|/usr/bin/lesspipe.sh %s
+QTDIR=/usr/lib64/qt-3.3
+QTINC=/usr/lib64/qt-3.3/include
+QTLIB=/usr/lib64/qt-3.3/lib
+]0;uzahid@unix2:lab5[uzahid@unix2 lab5]$ ./environ[22Gexit[Kmk environ.c[22Gls[Kecho $?[22Gvalgrind --leak-check=full list4 foo bar baz qux[53G3[70G[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5 /list2 foo bar[A[22Ggdb list2[K[81G /[K[A[31G[22Gvalgrind list2 foo bar[22Gmk list2.c[K[22Gvi[32G[22G[8@cp list1.c[40G[23G[8Pi[32G[22Gscript part06.typescript[22Gcd lab5[Kcmps012b[25Gprivate[K[24G[Kp list1.c ~/private/cmps012b/lab5[23Gd code[K/afs/cats.ucsc.edu/courses/cmps012b-wm/Labs-cmps012m/lab5 c-gdb-valgrind[A[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5c/malloc[K[2Guninit[A[22Gpstatus 139[K[81G /[K[A[33G[22Gvalgrind uninit[22Gmk uninit.c[K[22Ggdb uninit[K[22Gvalgrind uninit.c[22Gquit[Kend[Kstop Script[26G[Kvi histogram.a2[22Gcd hist[K[22G[3Phistcd /afs/cats.ucsc.edu/class/cmps012b-wm.s14/.graded/[22Gvi SCORE[K[22Gcd[30G[22Gvi[30G[22Gcd /afs/cats.ucsc.edu/class/cmps012b-wm.s14/.graded/[22Ghist[K[3@cd hist[22Gvi histogram.a2[22Gstop[K Script[22Gend[Kquitvalgrind uninit.c[22Ggdb uninit[K[22Gmk uninit.c[22Gvalgrind uninit[22Gpstatus 139[K[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5 /uninit[2Gmalloc[A[22Gcd /afs/cats.ucsc.edu/courses/cmps012b-wm/Labs-cmps012m/lab5/c-gdb-valgrind[A[25Gcode[K[81G c[K[A[29G[23Gp list1.c ~/private/cmps012b/lab5[23Gd[K private[25Gcmps012b[25Glab5[K[22Gscript part06.typescript[22Gci list2.c[K[23G[8@p list1.c[40G[22G[8Pvi[32G[22Gmk[32G[22Gvalgrind list2 foo bar[22Ggdb list2[K[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5 /list2 foo bar[A[22Gvalgrind --leak-check=full list3 foo bar baz qux[K[81G /[K[A[70G[53G4[70G[22Gecho $?[K[22Gls[Kmk environ.c[22Gexit[K./environ[22G[K./environ[22Gexit[Kmk environ.c[22Gls[Kecho $?[22Gvalgrind --leak-check=full list4 foo bar baz qux[53G3[70G[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5 /list2 foo bar[A[22Ggdb list2[K[81G /[K[A[31G[22Gvalgrind list2 foo bar[22Gmk list2.c[K[22Gvi[32G[22G[8@cp list1.c[40G[23G[8Pi[32G[22Gscript part06.typescript[22Gcd lab5[Kcmps012b[25Gprivate[K[24G[Kp list1.c ~/private/cmps012b/lab5[23Gd code[K/afs/cats.ucsc.edu/courses/cmps012b-wm/Labs-cmps012m/lab5 c-gdb-valgrind[A[22Gexec /afs/cats.ucsc.edu/users/h/uzahid/private/cmps012b/lab5c/malloc[K[2Guninit[A[22Gpstatus 139[K[81G /[K[A[33G[22Gvalgrind uninit[22Gmk uninit.c[K[22Ggdb uninit[K[22Gvalgrind uninit.c[22Gquit[Kend[Kstop Script[26G[Kvi histogram.a2[22Gcd hist[K[22G[3Phistcd /afs/cats.ucsc.edu/class/cmps012b-wm.s14/.graded/[22Gvi SCORE[K[22Gcd[30G[22G[3P[27G[22Gcd uzahid[25Gasg2[K[22G[3Pasg2submit cmps012b-wm.s14 lab4 cmatch.c mk[22Gmk[Kk[Kmksubmit cmps012b-wm.s14 lab4 cmatch.c mk[K[K[K[K[K[K[K[K[K[K[K[Kb5 part10.typescript environ.x[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Wed 07 May 2014 05:11:03 PM PDT

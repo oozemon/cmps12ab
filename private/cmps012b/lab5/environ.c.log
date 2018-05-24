@@ -1,0 +1,7 @@
+environ.c:7:6: warning: return type of ‘main’ is not ‘int’ [-Wmain]
+ void main () {
+      ^
+environ.c: In function ‘main’:
+environ.c:11:4: warning: ‘return’ with a value, in function returning void [enabled by default]
+    return EXIT_SUCCESS;
+    ^

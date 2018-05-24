@@ -1,0 +1,67 @@
+GNOME_KEYRING_SOCKET=/tmp/keyring-cW5uwO/socket
+SSH_AUTH_SOCK=/tmp/keyring-cW5uwO/socket.ssh
+
+(process:23391): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:23391): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+
+(process:23391): GLib-WARNING **: goption.c:2132: ignoring no-arg, optional-arg or filename flags (8) on option of type 0
+Failed to play sound: File or data not found
+
+(polkit-gnome-authentication-agent-1:23385): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:23385): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+abrt-applet: Can't access '/var/spool/abrt/pyhook-2015-01-10-21:58:39-5935': Permission denied
+** Message: applet now removed from the notification area
+abrt-applet: Can't access '/var/spool/abrt/ccpp-2015-03-07-15:08:06-3110': Permission denied
+** Message: applet now embedded in the notification area
+Initializing nautilus-open-terminal extension
+Initializing nautilus-gdu extension
+
+(nautilus:23357): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+
+(nautilus:23357): Nautilus-GDU-WARNING **: unable to query info: The specified location is not supported
+
+1427755831351	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+abrt-applet: notifyd doesn't have persistence - showing old style status icon
+
+(gnome-power-manager:23369): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+Window manager warning: CurrentTime used to choose focus window; focus window may not be correct.
+Window manager warning: Got a request to focus the no_focus_window with a timestamp of 0.  This shouldn't happen!
+Shutting down nautilus-gdu extension
+Shutting down nautilus-open-terminal extension
+
+** (gnome-panel:23355): WARNING **: Failed to send buffer
+
+** (gnome-panel:23355): WARNING **: Failed to send buffer
+
+--- Hash table keys for warning below:
+--> inode/directory
+--> l20
+--> users
+--> 33239
+--> Usman Zahid
+--> uzahid
+
+(nautilus:23357): Eel-WARNING **: "unique eel_ref_str" hash table still has 6 elements at quit time (keys above)
+
+(nautilus:23357): Eel-WARNING **: "nautilus-directory.c: directories" hash table still has 4 elements at quit time
+** Message: applet now removed from the notification area
+gnome-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+kamsg: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gpk-update-icon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+evolution-alarm-notify: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+<unknown>: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+gnome-screensaver: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+bluetooth-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+abrt-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gdu-notification-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-volume-control-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+applet.py: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+gnome-panel: Fatal IO error 0 (Success) on X server :0.
+firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+XIO:  fatal IO error 9 (Bad file descriptor) on X server ":0"
+      after 2797 requests (2797 known processed) with 0 events remaining.

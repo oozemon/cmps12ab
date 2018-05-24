@@ -1,0 +1,21 @@
+halt.
+true.
+[likes.].
+gprolog
+consult('helloworld.pl')
+helloworld
+halt.
+true.
+[likes.].
+[likes.]
+true.
+halt.
+[factorial].
+(4, 5)
+
+
+
+
+
+halt.
+halt.

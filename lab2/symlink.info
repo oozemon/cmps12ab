@@ -1,0 +1,8 @@
+lrwxr-xr-x. 1 uzahid users 70 Apr 16 19:18 lab2 -> /afs/cats.ucsc.edu/users/h/uzahid/12b/Labs-cmps012m/lab2u-unix-shells/
+  File: `lab2' -> `/afs/cats.ucsc.edu/users/h/uzahid/12b/Labs-cmps012m/lab2u-unix-shells/'
+  Size: 70        	Blocks: 2          IO Block: 4096   symbolic link
+Device: 15h/21d	Inode: 1819148492  Links: 1
+Access: (0755/lrwxr-xr-x)  Uid: (42189/  uzahid)   Gid: (  101/   users)
+Access: 2014-04-16 19:18:10.000000000 -0700
+Modify: 2014-04-16 19:18:10.000000001 -0700
+Change: 2014-04-16 19:18:10.000000000 -0700

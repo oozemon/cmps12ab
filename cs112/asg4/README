@@ -1,0 +1,12 @@
+Usman Zahid
+uzahid@ucsc.edu
+
+A utility written in prolog that calculates and prints the times for an
+airport. This utilizes the Haversine formula to convert the distance
+as a pair of coordinates into a time that then is converted to flight times.
+Flight checks if the times for the flight are valid. It then prints out the
+values. 
+
+*Originally written for Fall 2017 at UCSC, submitted Winter quarter with
+permission from Professor Mackey.
+

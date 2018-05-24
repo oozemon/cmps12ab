@@ -1,0 +1,7 @@
+#!/bin/sh
+# $Id: mk,v 1.1 2014-04-21 18:26:22-07 - - $
+# Usman Zahid
+gcc -g -o0 -Wall -Wextra -std=gnu99 crpn.c -o crpn 
+chmod +x crpn
+
+

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/afs/cats.ucsc.edu/users/h/uzahid/cs112/asg2'
+let g:netrw_dirhist_2='/afs/cats.ucsc.edu/class/cmps112-wm.f17/.graded/asg2/uzahid'
+let g:netrw_dirhist_3='/afs/cats.ucsc.edu/class/cmps112-wm.f17/.graded/late1'
+let g:netrw_dirhist_4='/afs/cats.ucsc.edu/class/cmps112-wm.f17/.graded/hist'
+let g:netrw_dirhist_5='/afs/cats.ucsc.edu/class/cmps112-wm.f17/.graded/asg1/uzahid'
+let g:netrw_dirhist_6='/afs/cats.ucsc.edu/class/cmps112-wm.f17/.graded/hist'
+let g:netrw_dirhist_7='/afs/cats.ucsc.edu/courses/cmps112-wm/Languages/prolog/Examples/RCS'
+let g:netrw_dirhist_8='/afs/cats.ucsc.edu/users/h/uzahid/CMPS111/Lab2/pintos/src/tests'
+let g:netrw_dirhist_9='/afs/cats.ucsc.edu/users/h/uzahid/CMPS111/Lab2/pintos/src/examples'

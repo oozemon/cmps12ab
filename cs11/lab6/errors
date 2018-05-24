@@ -1,0 +1,9 @@
+//Errors
+//Usman Zahid
+//uzahid
+//lab6
+//The errors I found in debugging the "black box" method way
+// 1.) In the second sentence code, the answer code 4, corresponds to the same response as 3.
+// 2.) In the third sentence code, it is supposed to read "next weekend" but instead reads "last weekend"
+// 3.) In the 4th sentence code, there is a gramatical error in the response, gives a plural response "another books" instead of "another book"
+// 4.) If you put an incorret sentence code, the prompt will respond "x is a valid sentence code" instead of "x is NOT a valid sentence code"

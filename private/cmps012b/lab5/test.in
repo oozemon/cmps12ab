@@ -1,0 +1,14 @@
+Script started on Wed 07 May 2014 01:03:15 PM PDT
+You are currently using 0% (463.0 KiB) of your 488.3 MiB quota.
+]0;uzahid@unix1:lab5[uzahid@unix1 lab5]$ stop
+stop: Too few arguments.
+]0;uzahid@unix1:lab5[uzahid@unix1 lab5]$ stop s[KScript
+stop: Arguments should be jobs or process id's.
+]0;uzahid@unix1:lab5[uzahid@unix1 lab5]$ end
+end: Not in while/foreach.
+]0;uzahid@unix1:lab5[uzahid@unix1 lab5]$ quit
+quit: Command not found.
+]0;uzahid@unix1:lab5[uzahid@unix1 lab5]$ exit
+exit
+
+Script done on Wed 07 May 2014 01:05:13 PM PDT

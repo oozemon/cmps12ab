@@ -1,0 +1,33 @@
+Welcome to CATS/Athena
+----------------------
+
+- Project Athena was an eight-year experiment (1983-1991) to explore
+  the use of computers in university educational programs.  The Project
+  focused on developing computers as useful tools, rather than as
+  objects of study, in the education of students at MIT.
+
+- The Athena system, one of the fruits of Project Athena, is a
+  campus-wide distributed computer service consisting of hundreds of
+  networked workstations and related facilities (such as printers and
+  file servers) at MIT.  The software has been imported by UCSC to be a
+  foundation for the transition from time-sharing to workstations. It
+  is available to students and faculty to help them achieve their
+  academic goals and learn about computers.
+
+- For help about any aspect of Athena, type:   help   followed by a
+  carriage return (or  xhelp  if you are at an X workstation).  This
+  calls the CATS on-line help system, a gopher-based menu browser that
+  helps you find information about many topics.  For introductory
+  guides on how to use Athena, look under:
+
+	UNIX (includes Athena)
+	Understanding UNIX-Athena
+	Getting started
+
+- If you have trouble, contact a consultant.  To get a consultant
+  on-line, just type:  olc   followed by a carriage return.  Olc will
+  also give you answers to the most commonly asked questions.  To talk
+  to a student consultant in person, call X4693 (if there is no
+  consultant on duty, you might someday get a recording informing you
+  of the consulting schedule).
+

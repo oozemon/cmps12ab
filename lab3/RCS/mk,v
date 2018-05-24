@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.1
+date	2014.04.22.01.26.22;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@-
+@
+text
+@#!/bin/sh
+# $Id$
+# Usman Zahid
+gcc -g -o0 -Wall -Wextra -std=gnu99 crpn.c -o crpn 
+chmod +x crpn
+
+
+@

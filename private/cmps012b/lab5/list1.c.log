@@ -1,0 +1,10 @@
+list1.c: In function ‘main’:
+list1.c:15:7: warning: implicit declaration of function ‘malloc’ [-Wimplicit-function-declaration]
+       node *node = malloc (sizeof (struct node));
+       ^
+list1.c:15:20: warning: incompatible implicit declaration of built-in function ‘malloc’ [enabled by default]
+       node *node = malloc (sizeof (struct node));
+                    ^
+list1.c:12:15: warning: unused parameter ‘argc’ [-Wunused-parameter]
+ int main (int argc, char **argv) {
+               ^

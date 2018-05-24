@@ -1,0 +1,6 @@
+Path: Mail
+Editor: vi
+Msg-Protect: 600
+Folder-Protect: 700
+Prompter-next: vi
+rmmproc: delete

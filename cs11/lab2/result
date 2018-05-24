@@ -1,0 +1,16 @@
+/afs/cats.ucsc.edu/users/h/uzahid/cs11/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidk
+  system:authuser rlid
+  system:anyuser rl
+  uzahid rlidwka
+
+
+Access list for private is
+Normal rights:
+  uzahid rlidwka
+
+
+
